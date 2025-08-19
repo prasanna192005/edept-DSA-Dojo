@@ -28,3 +28,15 @@ public class hello_dojo {
     }
 }
 ```
+### Python Solution
+```python
+# Problem 01: Hello Dojo
+# Edept Dojo
+print("Hello Dojo")
+```
+### Javascript Solution
+```javascript
+// Problem 01: Hello Dojo
+// Edept Dojo
+console.log("Hello Dojo");
+```
