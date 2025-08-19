@@ -16,9 +16,4 @@ Hello Dojo
 - Make sure the output matches exactly (case & spacing).
 
 
-```c
-#include <stdio.h>
-int main() {
-    printf("Hello Dojo\n");
-    return 0;
-}
+
