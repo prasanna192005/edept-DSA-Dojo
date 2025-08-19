@@ -14,3 +14,11 @@ Hello Dojo
 ### Notes
 - This is your warm-up challenge.
 - Make sure the output matches exactly (case & spacing).
+
+
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello Dojo\n");
+    return 0;
+}
