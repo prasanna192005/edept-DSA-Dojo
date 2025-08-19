@@ -7,7 +7,7 @@ int main() {
     return 0;
 }
 
-
+```
 ### C++ soluion
 
 ```cpp
@@ -17,7 +17,7 @@ int main() {
     cout << "Hello Dojo" << endl;
     return 0;
 }
-
+```
 ### Java Solution
 ```java
 
@@ -27,3 +27,4 @@ public class hello_dojo {
         System.out.println("Hello Dojo");
     }
 }
+```
