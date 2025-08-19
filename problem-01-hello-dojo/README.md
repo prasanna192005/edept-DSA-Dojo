@@ -17,5 +17,3 @@ Hello Dojo
 
 
 
-```c
-int main()
