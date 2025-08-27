@@ -3525,7 +3525,7 @@ solution_template = """# Solutions for Problem {id}: {title}
 
 def create_directory_structure():
     # Define the main directory
-    main_dir = "WhiteBeltProblems"
+    main_dir = "White-Belt-Problems"
     
     try:
         # Create main directory if it doesn't exist
